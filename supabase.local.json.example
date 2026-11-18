@@ -1,0 +1,5 @@
+{
+  "SUPABASE_URL": "https://cuzjhbzwseaefwjovuvr.supabase.co",
+  "SUPABASE_ANON_KEY": "PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY_HERE",
+  "MAP_TILE_URL": "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+}
