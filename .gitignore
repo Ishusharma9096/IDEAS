@@ -52,3 +52,6 @@ app.*.map.json
 # Local build-time credentials
 /supabase.local.json
 
+
+/android/.kotlin/
+/android/build/
